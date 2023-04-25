@@ -1,0 +1,22 @@
+.carousel-container {
+    position: relative;
+    top: 70px;
+}
+.cards-container{
+    position:relative;
+    top: 70px;
+}
+
+.conteudo-container{
+    position: relative;
+    top: 70px;
+}
+
+.footer-container{
+    position: relative;
+    top: 80px;
+}
+
+.card{
+    background-color: beige;
+}
